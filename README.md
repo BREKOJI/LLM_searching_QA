@@ -76,3 +76,9 @@ extract_page_text函数为解析PDF函数，将PDF解析两次，一次是长度
 5、使用关键词判断是否无答案
 
 6、推理加速：使用vllm并且根据Qwen官方脚本完成batch推理，推理速度有较大提升
+
+## NeMo Toolkit
+
+1、集成NLP自然语言处理、ASR自动语音识别、TTS语音合成多语言支持
+
+2、多语言支持（zh、en、jp...）
